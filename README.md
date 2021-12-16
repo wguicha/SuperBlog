@@ -3,7 +3,7 @@ Este es un blog super increible
 >Este blog es  creado como prueba para el repositorio de Github.
 Es muy interesante ver como con git tenemos 
 
-##En este blog se tocan varios temas
+## En este blog se tocan varios temas
 - Intalación de git en nuestro entorno
 - Comandos de terminal para poder utilizarlos. 
 - Flujo de trabajo dentro de Git
